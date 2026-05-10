@@ -1,0 +1,2 @@
+# adaptive_immunological_cybernetic_defense
+Repo for documentation of framework
